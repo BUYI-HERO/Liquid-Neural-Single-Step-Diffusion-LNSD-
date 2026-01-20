@@ -3,7 +3,7 @@ Liquid Neural Single-Step Diffusion
 
 Note: Code Release Pending  
 
-This repository will contain the official implementation of our paper "Liquid Neural Single-Step Diffusion" (accepted at [Conference Name]). The code and pre-trained models will be made available upon publication.
+This repository will contain the official implementation of our paper "Liquid Neural Single-Step Diffusion" (accepted at [ICML2026]). The code and pre-trained models will be made available upon publication.
 
 📖 Overview
 
